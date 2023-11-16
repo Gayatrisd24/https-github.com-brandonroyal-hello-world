@@ -6,7 +6,9 @@ namespace dotnetcore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("*****************************************");
+            Console.WriteLine("Hello World! This is dotnet application");
+            Console.WriteLine("*****************************************");
         }
     }
 }
